@@ -12,7 +12,8 @@ namespace CSC_205_ch9_prt_2_class_exe
     class Program
     {
 
-        public static void MyMethod()
+        public static void MyMethod()  // The Static methods (sometimes called class methods)
+                                       // The instance method (sometimes called object methods)
 
         { 
         
